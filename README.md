@@ -18,6 +18,7 @@ I used the socket and threading libraries. Socket allows you to connect to other
 
 * [Geeks for Geeks: Client or P2P server]([http://url.link.goes.here](https://www.geeksforgeeks.org/computer-networks/difference-between-client-server-and-peer-to-peer-network/#))
 * [Python Socket Library]([http://url.link.goes.here](https://docs.python.org/3.6/library/socket.html))
+* Google and Chatgpt were very helpful for understanding each funtion in the libraries.
 
 # Future Work
 
